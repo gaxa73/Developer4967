@@ -1,0 +1,15 @@
+/Users/ivanhudan/Projects/Developer4967/Developer4967/bin/Debug/net6.0/Developer4967
+/Users/ivanhudan/Projects/Developer4967/Developer4967/bin/Debug/net6.0/Developer4967.deps.json
+/Users/ivanhudan/Projects/Developer4967/Developer4967/bin/Debug/net6.0/Developer4967.runtimeconfig.json
+/Users/ivanhudan/Projects/Developer4967/Developer4967/bin/Debug/net6.0/Developer4967.dll
+/Users/ivanhudan/Projects/Developer4967/Developer4967/bin/Debug/net6.0/Developer4967.pdb
+/Users/ivanhudan/Projects/Developer4967/Developer4967/obj/Debug/net6.0/Developer4967.csproj.AssemblyReference.cache
+/Users/ivanhudan/Projects/Developer4967/Developer4967/obj/Debug/net6.0/Developer4967.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ivanhudan/Projects/Developer4967/Developer4967/obj/Debug/net6.0/Developer4967.AssemblyInfoInputs.cache
+/Users/ivanhudan/Projects/Developer4967/Developer4967/obj/Debug/net6.0/Developer4967.AssemblyInfo.cs
+/Users/ivanhudan/Projects/Developer4967/Developer4967/obj/Debug/net6.0/Developer4967.csproj.CoreCompileInputs.cache
+/Users/ivanhudan/Projects/Developer4967/Developer4967/obj/Debug/net6.0/Developer4967.dll
+/Users/ivanhudan/Projects/Developer4967/Developer4967/obj/Debug/net6.0/refint/Developer4967.dll
+/Users/ivanhudan/Projects/Developer4967/Developer4967/obj/Debug/net6.0/Developer4967.pdb
+/Users/ivanhudan/Projects/Developer4967/Developer4967/obj/Debug/net6.0/Developer4967.genruntimeconfig.cache
+/Users/ivanhudan/Projects/Developer4967/Developer4967/obj/Debug/net6.0/ref/Developer4967.dll
